@@ -1,0 +1,35 @@
+<camera>
+{
+	coord 0 0 0
+	angle 0 0 0
+}
+
+<spot>
+{
+	coord -50 10 300
+	color 255 255 255
+}
+
+<spot>
+{
+	coord -10 150 300
+	color 255 255 255
+}
+
+<plan>
+{
+	coord 0 120 20
+	radius 60
+	angle 0 0 10
+	color 50 255 50
+	noise 0
+	checker 0
+	reflexion 0
+	transparence 0
+	refraction 0
+	negatif 0
+	bump_mapping 0
+	lum_spec 100
+	lum_diff 50
+	lum_amb 10
+}

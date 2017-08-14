@@ -1,0 +1,109 @@
+<camera>
+{
+	coord 0 -100 0
+	angle 0 0 0
+}
+
+<spot>
+{
+	coord 100 0 0
+	color 255 255 255
+}
+
+<cylindre>
+{
+	coord 250 -10 600
+	radius 30
+	angle 0 0 0
+	length 200
+	color 255 255 255
+	noise 0
+	checker 0
+	negatif 0
+	reflexion 60
+	bump_mapping 0
+	transparence 0
+	lum_spec 100
+	lum_diff 50
+	lum_amb 10
+}
+
+<sphere>
+{
+	coord 0 -50 600
+	radius 70
+	color 255 255 255
+	noise 0
+	checker 0
+	bump_mapping 0
+	negatif 0
+	reflexion 60
+	transparence 0
+	lum_spec 100
+	lum_diff 50
+	lum_amb 10
+}
+
+<sphere>
+{
+	coord 100 50 600
+	radius 70
+	color 255 0 0
+	noise 0
+	checker 0
+	negatif 0
+	bump_mapping 0
+	reflexion 60
+	transparence 0
+	lum_spec 100
+	lum_diff 50
+	lum_amb 10
+}
+
+<sphere>
+{
+	coord -100 50 600
+	radius 70
+	color 0 0 255
+	negatif 0
+	noise 0
+	checker 0
+	reflexion 60
+	bump_mapping 0
+	transparence 0
+	lum_spec 100
+	lum_diff 50
+	lum_amb 10
+}
+
+<sphere>
+{
+	coord 0 50 800
+	radius 70
+	color 0 255 0
+	noise 0
+	negatif 0
+	checker 0
+	reflexion 60
+	bump_mapping 0
+	transparence 0
+	lum_spec 100
+	lum_diff 50
+	lum_amb 10
+}
+
+<plan>
+{
+	coord 0 120 20
+	angle 0 0 0
+	color 255 150 120
+	noise 0
+	negatif 0
+	bump_mapping 0
+	checker 100
+	reflexion 60
+	transparence 0
+	lum_spec 80
+	lum_diff 100
+	lum_amb 30
+}

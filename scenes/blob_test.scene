@@ -1,0 +1,108 @@
+<camera>
+{
+        coord 0 -100 0
+        angle 0 0 0
+}
+
+<spot>
+{
+        coord 100 0 0
+        color 255 255 255
+}
+
+<blob>
+{
+        coord -200 -50 600
+        radius 250
+        color 125 255 70
+        noise 0
+        checker 0
+        bump_mapping 0
+        reflexion 60
+	negatif 0
+        transparence 0
+        lum_spec 150
+        lum_diff 50
+        lum_amb 10
+}
+
+<blob>
+{
+        coord -100 0 600
+        radius 250
+        color 125 255 70
+        noise 0
+        checker 0
+        bump_mapping 0
+        reflexion 60
+        transparence 0
+	negatif 0
+        lum_spec 150
+        lum_diff 50
+        lum_amb 10
+}
+
+<blob>
+{
+        coord 0 -50 600
+        radius 250
+        color 125 255 70
+        noise 0
+        checker 0
+        bump_mapping 0
+        reflexion 60
+	negatif 0
+        transparence 0
+        lum_spec 150
+        lum_diff 50
+        lum_amb 10
+}
+
+<blob>
+{
+        coord 100 0 600
+        radius 250
+        color 125 255 70
+        noise 0
+	negatif 0
+        checker 0
+        bump_mapping 0
+        reflexion 60
+        transparence 0
+        lum_spec 150
+        lum_diff 50
+        lum_amb 10
+}
+
+<blob>
+{
+        coord 150 0 500
+        radius 250
+        color 125 255 70
+        noise 0
+	negatif 0
+        checker 0
+        bump_mapping 0
+        reflexion 60
+        transparence 0
+        lum_spec 150
+        lum_diff 50
+        lum_amb 10
+}
+
+<plan>
+{
+	coord 0 120 20
+	color 250 120 30
+	angle 0 0 0
+	noise 0
+	checker 0
+	negatif 0
+	bump_mapping 0
+	reflexion 60
+	transparence 0
+	refraction 140
+	lum_spec 150
+	lum_diff 50
+	lum_amb 10
+}

@@ -1,0 +1,28 @@
+<camera>
+{
+	coord 0 0 0
+	angle 0 0 0
+}
+
+<spot>
+{
+	coord 0 0 0
+	color 0 0 0
+}
+
+<sphere>
+{
+	coord 25555555 0 0
+	color 0 0 0
+	radius 0
+	noise 0
+	negatif 0
+	checker 0
+	bump_mapping 0
+	reflexion 0
+	transparence 0
+	refraction 0
+	lum_spec 0
+	lum_amb 0
+	lum_diff 0
+}
